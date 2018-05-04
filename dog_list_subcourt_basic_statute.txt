@@ -1,0 +1,16 @@
+---
+Policy:
+title: Dog List Subcourt Basic Statute
+summary: Rules that apply in the Dog List Subcourt
+court: Dog List
+justification: These rules are necessary for the jurors to know what to consider when ruling a case
+---
+
+§ 1 Burden of Proof
+The plaintiff has to convince the jury beyond reasonable doubt that the submitted item is not a dog.
+
+§ 2 Evidence
+When making its decision the jury must consider the argumentation of both the plaintiff and the defendant.
+
+§ 3 Dogs
+When it is difficult to determine if a submitted item qualifies as a dog the jury shall check wheter the item is a dog according to the common use of the word.
