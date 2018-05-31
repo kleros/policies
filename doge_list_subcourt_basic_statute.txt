@@ -6,8 +6,5 @@ court: Doge List
 justification: These rules are necessary for the jurors to know what to consider when ruling a case
 ---
 
-§ 1 Burden of Proof
-The plaintiff has to convince the jury that the submitted item is not a doge.
-
-§ 2 Evidence
+§ 1 Evidence
 When making its decision the jury shall only consider the picture provided and determin whether or not it shows a doge.
