@@ -10,7 +10,4 @@ justification: These rules are necessary for the jurors to know what to consider
 The plaintiff has to convince the jury that the submitted item is not a doge.
 
 § 2 Evidence
-When making its decision the jury must consider the argumentation of both the plaintiff and the defendant.
-
-§ 3 Dogs
-When it is difficult to determine if a submitted item qualifies as a doge the jury shall check wheter the item is a doge according to the common use of the word.
+When making its decision the jury shall only consider the picture provided and determin whether or not it shows a doge.
