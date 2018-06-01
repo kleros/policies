@@ -7,11 +7,11 @@ Justification: Kleros is about justice. It must not be that it is used for unjus
 ---
 
 § 1 Validity of Assasination Contracts
-Assasination contracts are null and void. All claims resulting from them are to be rejected by the jurors.
+Assasination contracts are null and void. All claims resulting from them are to be rejected by the jurors (vote "refuse to arbitrate").
 
 § 2 Definition
-An assasination contract is any contract that
+An assasination contract is any contract that:
 1. demands somebody to kill another person
 2. demands somebody to illegaly assault another person,
 3. creates markets to match those users searching for and providing assasinations or
-4. creates an imoral incentive to kill another person.
+4. creates an immoral incentive to kill another person.
