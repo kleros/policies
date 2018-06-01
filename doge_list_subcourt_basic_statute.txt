@@ -1,9 +1,9 @@
 ---
 Policy:
-title: Doge List Subcourt Basic Statute
-summary: Rules that apply in the Doge List Subcourt
-court: Doge List
-justification: These rules are necessary for the jurors to know what to consider when ruling a case
+Title: Doge List Subcourt Basic Statute
+Summary: Rules that apply in the Doge List Subcourt
+Court: Doge List
+Justification: This is the minimum rule set required to rule on the Doge List.
 ---
 
 § 1 Evidence
