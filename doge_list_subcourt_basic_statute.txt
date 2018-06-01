@@ -1,0 +1,10 @@
+---
+Policy:
+Title: Doge List Subcourt Basic Statute
+Summary: Rules that apply in the Doge List Subcourt
+Court: Doge List
+Justification: This is the minimum rule set required to rule on the Doge List.
+---
+
+§ 1 Evidence
+When making its decision the jury shall only consider the picture provided and determin whether or not it shows a doge.
