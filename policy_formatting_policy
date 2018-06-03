@@ -1,0 +1,32 @@
+---
+Policy:
+Title: Policy Formatting Convention
+Summary: Guidelines regarding the standard formatting of Kleros court policies
+Court: General
+Justification: Effective policy making requires a standard for policy draft submissions. Furthermore a common policy structure makes it easier access use them from Third-Party software.
+---
+
+§ 1 General Structure
+Every policy consists of a header and a body. The header contains general information on the policy and the body contains the text of the policy.
+
+§ 2 Header
+(1) The header of each policy starts and ends with a line consisting only of three dashes ("-"). 
+(2) The header consists of fields. One line represents one field. The field begins with the name of the field followed by a colon and the content of the field.
+(3) Each header has to contain the following fields in the order they are mentioned:
+1. "Policy" which is used to give a unique ID to every policy (can be left blank for drafts),
+2. "Title" which gives every policy an easy-to-refer-to title,
+3. "Summary" which summarizes the policy in at most two sentences.
+4. "Court" which specifies the subcourts in which the policy will apply and
+5. "Justification" which explains why there is need for the policy.
+
+§ 3 Body
+(1) The body consists mainly of sections. These sections begin with a header line that starts with a "§" followed by a space, the number of the section and optionally a section title.
+(2) The sections can be further structured into subsections.
+(3) Sections are seperated by blank lines.
+
+§ 4 Further structure
+Sections can be grouped into parts and chapters to further structure the policy.
+
+§ 5 Principles of policy formatting
+(1) When writing a policy one shall not break any principle that has developed from the creation of previous policies even when the principle is not explicitly mentioned in this policy. Uniformity is the most important principle when writing policies.
+(2) The structure of this policy is an example of a well-structured policy and is to be used as reference for all further policies.
