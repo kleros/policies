@@ -4,6 +4,7 @@ Title: Doge List Subcourt Basic Statute
 Summary: Rules that apply in the Doge List Subcourt
 Court: Doge List
 Justification: This is the minimum rule set required to rule on the Doge List.
+Status: Draft.
 ---
 
 § 1 Evidence
