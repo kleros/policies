@@ -4,6 +4,7 @@ Title: Policy Formatting Convention
 Summary: Guidelines regarding the standard formatting of Kleros court policies
 Court: General
 Justification: Effective policy making requires a standard for policy draft submissions. Furthermore a common policy structure makes it easier access use them from Third-Party software.
+Status: Draft.
 ---
 
 § 1 General Structure
@@ -18,6 +19,7 @@ Every policy consists of a header and a body. The header contains general inform
 3. "Summary" which summarizes the policy in at most two sentences.
 4. "Court" which specifies the subcourts in which the policy will apply and
 5. "Justification" which explains why there is need for the policy.
+6. "Status" which gives the current status of the policy according to the governance mechanism. It can be draft/proposal/rejected/accepted.
 
 § 3 Body
 (1) The body consists mainly of sections. These sections begin with a header line that starts with a "§" followed by a space, the number of the section and optionally a section title.
