@@ -4,6 +4,7 @@ Title: Assassination Market Prohibition
 Summary: There will not be disputes involving assassinations handled by Kleros
 Court: General
 Justification: Kleros is about justice. It must not be that it is used for unjust purposes.
+Status: Draft.
 ---
 
 § 1 Validity of Assasination Contracts
