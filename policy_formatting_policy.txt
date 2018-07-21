@@ -30,3 +30,7 @@ Sections can be grouped into parts and chapters to further structure the policy.
 § 5 Principles of policy formatting
 (1) When writing a policy one shall not break any principle that has developed from the creation of previous policies even when the principle is not explicitly mentioned in this policy. Uniformity is the most important principle when writing policies.
 (2) The structure of this policy is an example of a well-structured policy and is to be used as reference for all further policies.
+
+§ 6 References
+(1) Other policies can be referenced to clarify the meaning of a rule. However, it must be possible to understand the rule without looking up the reference even if this means restating another policy.
+(2) When a superior court's policy calls the inferior courts to implement a rule the inferior court shall reference the superior policy in parantheses after the implementation. 
