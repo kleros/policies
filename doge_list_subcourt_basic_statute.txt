@@ -9,3 +9,6 @@ Status: Draft.
 
 § 1 Evidence
 When making its decision the jury shall only consider the picture provided and determin whether or not it shows a doge.
+
+§ 2 Offensive
+If an image is offensive, it should be rejected by the jurors.
